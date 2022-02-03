@@ -8,7 +8,7 @@ Autores do trabalho: Natan Paschoal Cypriano e Matheus Costa Evangelista
 Atividade Ordenação Externa:
 A definição do nome do arquivo de principal é feita manualmente no código, definimos arqEntrada.csv por padrão mas pode ser alterado para o nome do arquivo que deseja utilizar. Nós definimos o tamanho do buffer do Kway no próprio código manualmente, mas a quantidade de arquivos é definida de acordo com o tamanho do buffer e a quantidade de registros automaticamente pelo sistema de ordenação.
 
-Variavel que pode ser alterada manualmente na main: "arq";
+Variavel que pode ser alterada manualmente na main: "arq";<br>
 Variavel que pode ser alterada manualmente no Kwaymerge: "buffer";
 
 
